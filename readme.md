@@ -28,3 +28,38 @@ Esta es una aplicación desarrollada en Python que realiza ping a una dirección
 
 ¡Disfruta de la aplicación de Ping y monitorea tu conectividad de red de manera sencilla!
 
+
+**README.md (English)**
+
+# Ping Application
+
+This is a Python application that performs ping to an IP address for a specified duration and displays real-time statistics and graphs. The application is designed to facilitate network connectivity monitoring and analyze the response times (RTT) of ping packets.
+
+## Requirements
+
+- Python 3.7 or higher.
+- The following Python packages must be installed:
+  - `ping3`
+  - `matplotlib`
+  - `tkinter`
+  - `matplotlib.backends.backend_tkagg`
+
+## Usage
+
+1. Clone or download the application repository to your local machine.
+2. Make sure you have installed the aforementioned requirements.
+3. Run the `ping_app.py` file to start the application.
+4. A window will open displaying the application form.
+5. Enter the IP address you want to ping in the corresponding field.
+6. Select the duration of the ping process from the dropdown. You can choose between 60 seconds or enter a custom duration in seconds.
+7. Click the "Start" button to begin the ping process.
+8. The table will show real-time ping data, including the timestamp and response times (RTT) of each packet.
+9. The graphs will be generated and updated automatically as the ping data is received.
+10. To stop the ping process at any time, click the "Stop" button.
+11. A dialog box will display the final ping statistics, including the total successful pings and total failures.
+12. You can close the application by clicking the "X" in the top right corner of the window.
+
+Enjoy the Ping Application and easily monitor your network connectivity!
+
+
+
