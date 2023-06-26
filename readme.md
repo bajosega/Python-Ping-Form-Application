@@ -15,7 +15,7 @@ Esta es una aplicación desarrollada en Python que realiza ping a una dirección
 
 1. Clona o descarga el repositorio de la aplicación en tu máquina local.
 2. Asegúrate de tener instalados los requerimientos mencionados anteriormente.
-3. Ejecuta el archivo `ping_app.py` para iniciar la aplicación.
+3. Ejecuta el archivo `app.py` para iniciar la aplicación.
 4. Se abrirá una ventana que muestra el formulario de la aplicación.
 5. Ingresa la dirección IP que deseas hacer ping en el campo correspondiente.
 6. Selecciona la duración del proceso de ping en el desplegable. Puedes elegir entre 60 segundos o ingresar un número personalizado de duración en segundos.
@@ -48,7 +48,7 @@ This is a Python application that performs ping to an IP address for a specified
 
 1. Clone or download the application repository to your local machine.
 2. Make sure you have installed the aforementioned requirements.
-3. Run the `ping_app.py` file to start the application.
+3. Run the `app.py` file to start the application.
 4. A window will open displaying the application form.
 5. Enter the IP address you want to ping in the corresponding field.
 6. Select the duration of the ping process from the dropdown. You can choose between 60 seconds or enter a custom duration in seconds.
